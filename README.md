@@ -1,48 +1,39 @@
-# Bootcamp Homework Week 1 - Code Refactor
+# Code Refactor
 
-<a href="https://jazzberriess.github.io/homework-01-code-refactor/"> Git Page for Homework week 1</a>
+View deployed application on <a href="https://jazzberriess.github.io/homework-01-code-refactor/">GitHub Pages</a>
 
-## V1 Changes made to index.html:
-
-Added in title for webpage
-
-Added `header`,`nav`, `main` and `footer` elements
-
-Added `alt` descriptions for images
-
-Added `alt=""` to decorative images
-
-Added `aside` element
-
-Added `article` and `section` elements
+Built using HTML and CSS
 
 
-## V1 Changes made to style.css
+## Description
 
-Removed .header h1 from the .seo class CSS
+Accessibility is an important aspect of web development that needs to be taken into consideration when building (or updating) a website.
 
-## V2 Changes made to index.html
+This project was focussed on improving the accessibility of an already existing website. Not only does this increase usability for people using assistive technologies for their browsing, it also increases Search Engine Optimisation (SEO) for a website as well.
 
-Removed    `div class="footer"`
-
-Added `aria-hidden="true"` to images in the `aside` element to hide decorative images from screen readers
-
-Added `span role="img" aria-label="love"` before emoji in the footer
+During this project I learned about semantic HTML elements, consolidating stylesheet properties and how to make a website more accessible for those using assistive technologies.
 
 
+## Resources:
 
-## V2 Changes made to style.css
+The following websites were invaluable in my quest for knowledge and troubleshooting:
 
-Removed header class from both CSS and HTML and applied styling to entire `header` element
+<a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA">Mozilla Developer Network</a>
 
-Removed .header div ul and applied styling to `ul` element
+<a href="https://www.w3.org/WAI/tutorials">W3.Org</a>
 
-Removed .footer and applied styling to entire `footer` element 
+<a href="https://webaim.org/">Webaim</a>
 
-Removed `text-decoration: none;` from `a` element
+<a href="https://stackoverflow.com">Stack Overflow</a>
 
-Added `font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;` to `body` element to consolidate
+<a href="https://www.w3schools.com">W3 Schools</a>
 
-Consolidated .social-media-marketing classes and .online-reputation-management classes into the .search-enging-optimization classes as they contained the same styling
+<a href="https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide">Coding Bootcamp Professional README guide</a> (Link provided to me by fellow classmate, Leo Wong)
 
-Consolidated .benefit-brand and .benefit-cost classes into .benefit-lead
+<a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">GitHub Markdown Tutorial</a>
+
+
+## License
+
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+
