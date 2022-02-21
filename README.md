@@ -1,10 +1,5 @@
 # Code Refactor
 
-View deployed application on <a href="https://jazzberriess.github.io/homework-01-code-refactor/">GitHub Pages</a>
-
-Built using HTML and CSS
-
-
 ## Description
 
 Accessibility is an important aspect of web development that needs to be taken into consideration when building (or updating) a website.
@@ -13,24 +8,33 @@ This project was focussed on improving the accessibility of an already existing 
 
 During this project I learned about semantic HTML elements, consolidating stylesheet properties and how to make a website more accessible for those using assistive technologies.
 
+## Usage
+
+View deployed application on [Git Hub Pages](https://jazzberriess.github.io/homework-01-code-refactor)
+
+Built using HTML and CSS
+
+## Mockup:
+
+![The Horiseon webpage includes a navigation bar and a header image. There are cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
 
 ## Resources:
 
 The following websites were invaluable in my quest for knowledge and troubleshooting:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA">Mozilla Developer Network</a>
+[Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
-<a href="https://www.w3.org/WAI/tutorials">W3.Org</a>
+[W3.Org](https://www.w3.org/WAI/tutorials)
 
-<a href="https://webaim.org/">Webaim</a>
+[Webaim](https://webaim.org/)
 
-<a href="https://stackoverflow.com">Stack Overflow</a>
+[Stack Overflow](https://stackoverflow.com)
 
-<a href="https://www.w3schools.com">W3 Schools</a>
+[W3 Schools](https://www.w3schools.com)
 
-<a href="https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide">Coding Bootcamp Professional README guide</a> (Link provided to me by fellow classmate, Leo Wong)
+[Coding Bootcamp Professional README guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
-<a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">GitHub Markdown Tutorial</a>
+[GitHub Markdown Tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 AskBCS via Slack
 
