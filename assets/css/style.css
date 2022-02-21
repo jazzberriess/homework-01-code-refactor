@@ -54,7 +54,6 @@ a {
 
 /* added anchor focus for accessibility for keyboard users */
 a:focus {
-
     outline-offset: 3px;
     outline: 2px solid lightgrey;
 }
